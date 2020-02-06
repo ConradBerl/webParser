@@ -57,3 +57,7 @@ if __name__ == '__main__':
         salePrice_TrailHead = salePrice_TrailHead[1:]
         print("TrailHead price: " + price_TrailHead)
         print("TrailHead Sale Price: " + salePrice_TrailHead)
+
+    print()
+    print("Press ENTER to exit.")
+    input()
