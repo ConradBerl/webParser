@@ -58,6 +58,8 @@ if __name__ == '__main__':
         print("TrailHead price: " + price_TrailHead)
         print("TrailHead Sale Price: " + salePrice_TrailHead)
 
+
+    # Hang until user acknowledges read-out
     print()
     print("Press ENTER to exit.")
     input()
